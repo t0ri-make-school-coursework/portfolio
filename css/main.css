@@ -6,7 +6,7 @@ html {
     width: 100vw;
 }
 
-element, root {
+:root {
     --links-font: 'Roboto', sans-serif;
     --links-font-italics: 'Roboto', sans-serif;
 }
